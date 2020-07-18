@@ -9,7 +9,17 @@ So a dataset on the temperature of major cities of the world will help analyze t
 Thanks to University of Dayton, the dataset is available as separate txt files for each city here. The data is available for research and non-commercial purposes only.. Please refer to this page for license.
 
 #What is the task?
+
 The task is to analyze and determine how much temperature has incresed in different parts of the world and which cities are seeing a rapid increase in temperature.
 
 #What actions did I took?
+
 To analyze the the problem I had to tackle some problems mainly cleaning the data set.I visualized the data set for analyzing and determining.The actions are well described and demonstrated in the codes.
+
+#Code:
+
+ •Temperature_Data_Analyzing_and_Visualization: 
+ 
+  ○ Taking data from source
+  ○ Setting up the enviroment for coding
+  ○ 

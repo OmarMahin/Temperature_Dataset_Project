@@ -18,19 +18,14 @@ To analyze the the problem I had to tackle some problems mainly cleaning the dat
 
 **Code:**
 
- *Temperature_Data_Analyzing_and_Visualization: 
+ * Temperature_Data_Analyzing_and_Visualization: 
  
       - Taking data from source
-  
       - Setting up the enviroment for coding
-  
-  ○ Finding values which needs to be changed or cleaned
-  
-  ○ Renaming values for better understanding
-  
-  ○ Visualizing different columns to understand the relation between them and the temperature
-  
-  ○ Analyzing and determining which countries are facing rapid temperature increase
+      - Finding values which needs to be changed or cleaned
+      - Renaming values for better understanding
+      - Visualizing different columns to understand the relation between them and the temperature
+      - Analyzing and determining which countries are facing rapid temperature increase
 
 
 

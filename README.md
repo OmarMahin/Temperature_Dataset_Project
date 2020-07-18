@@ -20,6 +20,6 @@ To analyze the the problem I had to tackle some problems mainly cleaning the dat
 
  •Temperature_Data_Analyzing_and_Visualization: 
  
-  ○ Taking data from source
-  ○ Setting up the enviroment for coding
+  ○ Taking data from source\n
+  ○ Setting up the enviroment for coding\n
   ○ 

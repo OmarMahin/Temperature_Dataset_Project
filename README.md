@@ -29,7 +29,7 @@ To analyze the the problem I had to tackle some problems mainly cleaning the dat
      
 **Resutlts and take-home information**
 
-From the analyzation we got that in Mongolia,Kazakhstan,Norway,Australia,Ukraine temperature has increased a lot from 1995 to 2020 due to global warming.I also realised that using barplot result more clear visualization than using scatterplot.
+From the analyzation we got that in Mongolia,Kazakhstan,Norway,Australia,Ukraine temperature has increased a lot from 1995 to 2020 due to global warming.I also realised that using barplot results more clear visualization than using scatterplot.
 
 **What could be done in the future?**
 
